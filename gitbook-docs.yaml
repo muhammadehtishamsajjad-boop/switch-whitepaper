@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Switch Protocol
+  structure:
+    - type: space
+      key: space-switch-protocol
+      title: Switch Protocol
+      path: switch-protocol
+      default: true
+      content:
+        directory: .
